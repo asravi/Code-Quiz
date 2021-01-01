@@ -18,6 +18,16 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 
+Technologies Used:
+
+Functions
+
+Local Storage
+
+Links to the Screenshots
+
 https://user-images.githubusercontent.com/21346289/103447515-4d257480-4c5a-11eb-9e9c-cba9b728f29b.png 
 
-https://user-images.githubusercontent.com/21346289/103447522-5a426380-4c5a-11eb-97a6-d67749121cf3.png
+https://user-images.githubusercontent.com/21346289/103447522-5a426380-4c5a-11eb-97a6-d67749121cf3.png 
+
+Application: https://asravi.github.io/Code-Quiz/
