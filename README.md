@@ -20,3 +20,4 @@ WHEN the game is over
 
 https://user-images.githubusercontent.com/21346289/103447515-4d257480-4c5a-11eb-9e9c-cba9b728f29b.png 
 
+https://user-images.githubusercontent.com/21346289/103447522-5a426380-4c5a-11eb-97a6-d67749121cf3.png
