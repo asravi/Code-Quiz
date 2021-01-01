@@ -17,3 +17,6 @@ THEN time is subtracted from the clock
 WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
+
+https://user-images.githubusercontent.com/21346289/103447515-4d257480-4c5a-11eb-9e9c-cba9b728f29b.png 
+
